@@ -1,0 +1,50 @@
+body {
+  background-color: #eaf5f3;
+}
+
+header {
+  background-color: #49766b;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-size: 2em;
+}
+
+h2 {
+  color: #49766b;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.form-label {
+  color: #49766b;
+}
+
+.btn-primary {
+  background-color: #49766b;
+  border-color: #49766b;
+}
+
+.btn-primary:hover {
+  background-color: #35594e;
+  border-color: #35594e;
+}
+
+.table th, .table td {
+  text-align: center;
+}
+
+.table th {
+  background-color: #49766b;
+  color: white;
+}
+
+.card-body {
+  background-color: white;
+}
+
+textarea {
+  height: 120px;
+}
